@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinaí Sánchez</h1>
 
 <h3 align="center">
-Industrial Engineer transitioning into Data Analytics 📊 | SQL · R · Excel | Supporting Women in STEM
+Data Analytics 📊 | SQL · R · Excel | Supporting Women in STEM
 </h3>
 
 <p align="center">
@@ -15,8 +15,6 @@ Passionate about using data to create business value and make social issues more
 - 👯 I'm looking to collaborate on **Data Analytics projects with social impact, especially those focused on preventing violence against women**.
 
 - 💬 Ask me about **Women in STEM, dashboards, data visualization, social impact, and gender-based violence**.
-
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sinai-sanchez)
 
 - ⚡ Fun fact: **Coffee, dashboards, and good books are my favorite combination. ☕📊📚**
   
