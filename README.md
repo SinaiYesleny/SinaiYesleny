@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Sinai Sanchez</h1>
-<h3 align="center">Industrial Engineer transitioning into Data Analytics 📊 | SQL · R · Excel | Women in STEM Advocate</h3>
+<h1 align="center">Hi 👋, I'm Sinaí Sánchez</h1>
 
-- 🌱 I’m currently building **my Data Analytics portfolio.**
+<h3 align="center">
+Industrial Engineer transitioning into Data Analytics 📊 | SQL · R · Excel | Supporting Women in STEM
+</h3>
 
-- 🌱 I’m currently learning **SQL, Statistics, AI Agents through DataCamp and Salesforce Trailhead.**
+<p align="center">
+Passionate about using data to create business value and make social issues more visible.
+</p>
 
-- 👯 I’m looking to collaborate on **Data Analytics projects with social impact.**
+- 💼 I'm currently building my **Data Analytics portfolio**.
 
-- 🤝 I’m looking for help with **Growing my skills in SQL, Python, and AI Agents.**
+- 🌱 I'm currently learning **SQL, Statistics, and AI Agents through DataCamp and Salesforce Trailhead**.
 
-- 💬 Ask me about **Women in STEM, social impact, dashboards, data visualization, and gender-based violence.**
+- 👯 I'm looking to collaborate on **Data Analytics projects with social impact, especially those focused on preventing violence against women**.
 
-- 📫 How to reach me **www.linkedin.com/in/sinai-sanchez**
+- 💬 Ask me about **Women in STEM, dashboards, data visualization, social impact, and gender-based violence**.
 
-- ⚡ Fun fact **Coffee, dashboards, and good books are my favorite combination ☕📊📚**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sinai-sanchez)
 
+- ⚡ Fun fact: **Coffee, dashboards, and good books are my favorite combination. ☕📊📚**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sinai-sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinai-sanchez" height="30" width="40" /></a>
