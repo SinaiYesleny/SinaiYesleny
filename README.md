@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sinaí Sánchez</h1>
+<h1 align="center">Curious by nature. Driven by data. 📊</h1>
+<h3 align="center">I'm Sinaí Sánchez</h3>
 
 <h3 align="center">
 Data Analytics 📊 | SQL · R · Excel | Supporting Women in STEM
