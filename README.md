@@ -35,6 +35,5 @@ Passionate about using data to create business value and make social issues more
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-  <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Excel" width="40" height="40"/></a>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="40" height="40"/>
 </p>
