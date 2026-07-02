@@ -15,7 +15,7 @@ Passionate about using data to create business value and make social issues more
 
 - 🤝 I'm looking to collaborate on **Data Analytics projects with social impact**.
 
-- 💬 Ask me about **Women in STEM, dashboards, data visualization, social impact, and gender-based violence**.
+- 💬 Let's talk about Data Analytics, dashboards, data visualization, Women in STEM, and using data for social impact.
 
 - ⚡ Fun fact: **Coffee, dashboards, and good books are my favorite combination. ☕📊📚**
   
