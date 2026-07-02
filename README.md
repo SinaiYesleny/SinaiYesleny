@@ -11,7 +11,7 @@ Passionate about using data to create business value and make social issues more
 
 - 💼 I'm currently building my **Data Analytics portfolio**.
 
-- 🌱 I'm currently learning **SQL, Statistics, and AI Agents through DataCamp and Salesforce Trailhead**.
+- 🌱 Expanding my knowledge in **SQL, Statistics, and AI Agents through DataCamp and Salesforce Trailhead**.
 
 - 👯 I'm looking to collaborate on **Data Analytics projects with social impact, especially those focused on preventing violence against women**.
 
