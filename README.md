@@ -17,7 +17,7 @@ Passionate about using data to create business value and make social issues more
 
 - 💬 Let's talk about **Data Analytics, dashboards, data visualization, Women in STEM, and using data for social impact**.
 
-- ⚡ Fun fact: My perfect combo is coffee, programming, or a good book. Outside of that, you’ll usually find me roller skating or swimming. ☕💻📚🛼🏊
+- ⚡ Fun fact: My perfect combo is coffee, either programming, or a good book. Outside of that, you’ll usually find me roller skating or swimming. ☕💻📚🛼🏊
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
