@@ -60,6 +60,5 @@ Passionate about using data to create business value and make social issues more
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sinai-sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinai-sanchez" height="30" width="40" /></a>
-<a href="https://instagram.com/sinaiyesleny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sinaiyesleny" height="30" width="40" /></a>
 </p>
 
